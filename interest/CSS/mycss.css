@@ -1,0 +1,271 @@
+﻿.jumbotron {
+            margin: 20px;
+            background-color: rgba(197, 43, 43, 0.41);
+            border-radius: 10px;
+            padding: 10px;
+           
+            overflow: auto;
+        }
+
+        .tbody {
+            padding:10px;
+        }
+        .auto-style1 {
+            width: 600px;
+            /*border: 2px solid #000080;*/
+            background-color: rgba(32, 39, 0, 0.5);
+            color: #FFFFFF;
+            margin-right: 20px;
+            border-radius: 10px;
+            
+        }
+
+        .auto-style5 {
+            height: 26px;
+            text-align: center;
+            width: 536px;
+            /*background-color: #000000;*/
+        }
+
+        .auto-style7 {
+            width: 536px;
+            height: 44px;
+        }
+
+        .auto-style24 {
+            border-style: solid;
+            border-width: 1px;
+            padding: 1px 4px;
+            font-weight: bold;
+            font-size: xx-large;
+            color: white;
+            font-family: Arial;
+        }
+
+        .auto-style29 {
+            font-weight: bold;
+            font-size: large;
+            color: #003300;
+            padding:3px;
+            padding-left:3px;
+        }
+
+        .newStyle1 {
+            background-color: #00FFFF;
+        }
+
+        .auto-style38 {
+            width: 536px;
+            height: 19px;
+            text-align: center;
+        }
+
+        .auto-style40 {
+            width: 536px;
+            height: 32px;
+            text-align: center;
+        }
+
+        .auto-style41 {
+            height: 32px;
+            width: 331px;
+            text-align: center;
+        }
+
+        .auto-style43 {
+            text-align: center;
+            width: 331px;
+            height: 25px;
+        }
+
+        .auto-style44 {
+            height: 26px;
+            width: 331px;
+            text-align: center;
+        }
+
+        .auto-style45 {
+            width: 536px;
+            height: 11px;
+            text-align: center;
+            /*background-color: #339933;*/
+        }
+
+        .auto-style46 {
+            height: 11px;
+            width: 331px;
+            text-align: center;
+            /*background-color: #339933;*/
+        }
+
+        .auto-style48 {
+            height: 5px;
+            width: 331px;
+        }
+
+        .auto-style50 {
+            height: 19px;
+            text-align: center;
+            width: 331px;
+        }
+
+        .auto-style52 {
+            height: 44px;
+            text-align: center;
+            width: 331px;
+        }
+
+        .auto-style55 {
+            border-style: outset;
+            border-width: 1px;
+            font-size: xx-large;
+            color: #FFFFFF;
+            position: relative;
+             margin-right:250px;
+        }
+
+        .newStyle2 {
+            background-color: #FFFFFF;
+        }
+
+        .auto-style56 {
+            width: 536px;
+            height: 5px;
+            text-align: center;
+        }
+
+        .auto-style57 {
+            font-size: medium;
+        }
+
+        .auto-style58 {
+            width: 536px;
+            text-align: center;
+            height: 25px;
+        }
+
+        .auto-style59 {
+            height: 5px;
+            width: 331px;
+            text-align: center;
+        }
+
+        .auto-style65 {
+            text-align: center;
+        }
+
+        .auto-style66 {
+            width: 536px;
+            height: 19px;
+            text-align: center;
+            /*background-color: #339933;*/
+        }
+
+        .auto-style67 {
+            height: 19px;
+            text-align: center;
+            width: 331px;
+            /*background-color: #339933;*/
+        }
+
+        .auto-style70 {
+            margin-left: 0px;
+            font-size: medium;
+            margin-top: 0px;
+            background: transparent;
+            color: blue;
+            height: auto !important;
+        }
+
+        .newStyle3 {
+            clip: rect(10px, 5px, 10px, 5px);
+        }
+
+        .auto-style71 {
+            color: #FFFFFF;
+            font-family: Arial;
+            font-size: medium;
+        }
+
+        .auto-style73 {
+            width: 370px;
+            height: 103px;
+            text-align: left;
+            font-size: medium;
+            padding-left:8px;
+            padding-bottom:12px;
+        }
+
+        .auto-style74 {
+            height: 103px;
+            text-align: center;
+            width: 370px;
+        }
+
+        .auto-style75 {
+            font-size: small;
+        }
+
+        .auto-style76 {
+            font-size: medium;
+            color: #FFFFFF;
+        }
+
+        .auto-style77 {
+            font-size: small;
+            color: #FFFFFF;
+            text-align: center;
+        }
+
+        body {
+            background-image: url("images/bgimage3.jpg");
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+        }
+
+        table {
+            /*background-image:url("images/bgimage2.jpg");*/
+        }
+
+        /*.chart {
+        }*/
+
+        .auto-style79 {
+            font-size: large;
+            font-family: Arial;
+            color: white;
+            background: transparent;
+        }
+
+        .auto-style80 {
+            border-style: solid;
+            border-width: 1px;
+            padding: 1px 4px;
+            margin-top: 0px;
+            margin-right:280px;
+        }
+
+        .auto-style81 {
+            border-style: dashed;
+            border-width: 1px;
+            padding: 1px 4px;
+            font-weight: bold;
+            font-size: large;
+            color: #FFFFFF;
+            font-family: Arial;
+        }
+        .auto-style82 {
+            font-family: Arial;
+            font-size: x-large;
+            color: #FFFFFF;
+        }
+        .auto-style83 {
+            font-family: Arial;
+            font-size: small;
+            color: #FFFFFF;
+        }
+        .auto-style84 {
+            font-family: Arial;
+            font-size: medium;
+        }
